@@ -6,3 +6,13 @@ body{
 h3{
     text-align: center;
 }
+
+.primeiro-titulo{
+    /* *Coloca-se ponto pois estamos chamando
+    * a classe */
+    color: white;
+    text-align: left;
+}
+
+/* * Trocar a cor do fundo do cabeçalho, a cor do título
+* e a cor dos links */
